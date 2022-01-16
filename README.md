@@ -1,0 +1,1 @@
+A first game attempt on python to make a game about searching for socks.
